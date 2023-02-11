@@ -17,3 +17,5 @@ node_modules/
 dist/
 coverage/
 *.tsbuildinfo
+
+cdk.out/
