@@ -21,5 +21,11 @@ export class AppStack extends cdk.Stack {
         path.resolve(__dirname, "docker-function")
       ),
     });
+
+    new NodeFunction(this, "FatAssetFunction", {
+      code: lambda.Code.fromAsset(
+        path.resolve(__dirname, "fat-asset-function")
+      ),
+    });
   }
 }
