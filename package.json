@@ -25,7 +25,7 @@
     "eslint": "8.30.0",
     "husky": "8.0.2",
     "jest": "29.3.1",
-    "lint-staged": "13.1.0",
+    "lint-staged": "13.1.4",
     "ora": "5.4.1",
     "prettier": "2.8.4",
     "ts-jest": "29.0.5",
