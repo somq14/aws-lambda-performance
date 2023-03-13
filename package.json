@@ -14,8 +14,8 @@
     "constructs": "10.1.247"
   },
   "devDependencies": {
-    "@aws-sdk/client-lambda": "3.267.0",
-    "@aws-sdk/client-xray": "3.267.0",
+    "@aws-sdk/client-lambda": "3.290.0",
+    "@aws-sdk/client-xray": "3.290.0",
     "@somq14/eslint-config": "somq14/eslint-config#v1.1.0",
     "@types/commander": "2.12.2",
     "@types/jest": "29.2.6",
