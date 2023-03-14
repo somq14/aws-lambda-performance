@@ -2909,10 +2909,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"constructs@npm:10.1.247":
-  version: 10.1.247
-  resolution: "constructs@npm:10.1.247"
-  checksum: ef6abff71a90d9a19056f8ac055f9e0e9377efb5443f53219a2467f1d5e72f4ffbd8f5bd44b2ff479d1aabe02febb172f6cfc5aad2a1dd97ab8fd2b6d780c102
+"constructs@npm:10.1.277":
+  version: 10.1.277
+  resolution: "constructs@npm:10.1.277"
+  checksum: 856873d5d4b4d24b56dddf8c785acca07366d71d78d3add6d05e4f2b4570e371e3a1c342d83d9ff2fae93c05d24c5876bd8eb25ebe971a3121d83470c1945cd6
   languageName: node
   linkType: hard
 
@@ -6808,7 +6808,7 @@ __metadata:
     aws-cdk: 2.64.0
     aws-cdk-lib: 2.64.0
     commander: 10.0.0
-    constructs: 10.1.247
+    constructs: 10.1.277
     eslint: 8.30.0
     husky: 8.0.2
     jest: 29.3.1
